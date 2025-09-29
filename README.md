@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shaahtaaj
-- 👀 I’m interested in Android Applications Development
-- 🌱 I’m currently learning Android Application development using FLUTTER
+- 👀 I’m interested in Web Development & Android Applications Development
+- 🌱 I’m currently learning Web Development & also Android Application development using FLUTTER
 - 💞️ I’m looking to collaborate on any android project using flutter
 - 📫 How to reach me shahtajmemon99@gmail.com
 
